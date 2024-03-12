@@ -1,0 +1,1 @@
+Client{codClient='0', denumire='Lupea Corina', dataNasterii=Sun Jun 18 00:00:00 EEST 2000, email='corina@yahoo.com', nrTelefon='0751935136', adresa='Str. Crizantemelor'}

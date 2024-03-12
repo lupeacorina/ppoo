@@ -1,0 +1,4 @@
+Factura
+paine.......6 BUCATA X 2.0.......12.0
+lapte.......2 LITRII X 5.0.......10.0
+Valoare totala: 22.0

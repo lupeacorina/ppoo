@@ -1,0 +1,4 @@
+Factura
+paine.......58 BUCATA X 2.0.......116.0
+oua.......22 BUCATA X 12.0.......264.0
+Valoare totala: 380.0

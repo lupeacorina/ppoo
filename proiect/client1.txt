@@ -1,0 +1,1 @@
+Client{codClient='1', denumire='Lupea Viorica', dataNasterii=Tue Mar 21 00:00:00 EET 2000, email='viorica@gmail.com', nrTelefon='0751615128', adresa='Str. Morii'}

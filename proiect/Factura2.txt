@@ -1,0 +1,4 @@
+Factura
+cartofi.......3 KILOGRAME X 6.0.......18.0
+ciocolata.......1 BUCATA X 5.0.......5.0
+Valoare totala: 23.0

@@ -1,0 +1,1 @@
+Client{codClient='3', denumire='dcwdjkbjk', dataNasterii=Sun Jun 18 00:00:00 EEST 2000, email='vjkfer@yahoo', nrTelefon='0761231233', adresa='wfwr'}

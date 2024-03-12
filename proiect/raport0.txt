@@ -1,0 +1,10 @@
+Comanda{client=Client{codClient='0', denumire='Lupea Corina', dataNasterii=Sun Jun 18 00:00:00 EEST 2000, email='corina@yahoo.com', nrTelefon='0751935136', adresa='Str. Crizantemelor'}, valoare=22.0, cod=1, listaProduse=
+Produsul: Produs{denumire='paine', pret=2.0, cantitateStoc=36, unitateMasura='BUCATA', descriere='alba', producator='Arcada', istoricPreturi={Sat Nov 12 10:25:39 EET 2022=2.0}, ratinguri=null, codProdus='0', rating='5.0'} in cantitatea 6
+Produsul: Produs{denumire='lapte', pret=5.0, cantitateStoc=48, unitateMasura='LITRII', descriere='bio', producator='Napolact', istoricPreturi={Sat Nov 12 10:26:22 EET 2022=5.0}, ratinguri=null, codProdus='1', rating='5.0'} in cantitatea 2
+}Comanda{client=Client{codClient='0', denumire='Lupea Corina', dataNasterii=Sun Jun 18 00:00:00 EEST 2000, email='corina@yahoo.com', nrTelefon='0751935136', adresa='Str. Crizantemelor'}, valoare=23.0, cod=2, listaProduse=
+Produsul: Produs{denumire='cartofi', pret=6.0, cantitateStoc=67, unitateMasura='KILOGRAME', descriere='pentru fiert', producator='Matca SRL', istoricPreturi={Sat Nov 12 10:30:04 EET 2022=6.0}, ratinguri=null, codProdus='5', rating='5.0'} in cantitatea 3
+Produsul: Produs{denumire='ciocolata', pret=5.0, cantitateStoc=14, unitateMasura='BUCATA', descriere='cu lapte', producator='Poiana', istoricPreturi={Sat Nov 12 10:30:55 EET 2022=5.0}, ratinguri=null, codProdus='6', rating='5.0'} in cantitatea 1
+}Comanda{client=Client{codClient='0', denumire='Lupea Corina', dataNasterii=Sun Jun 18 00:00:00 EEST 2000, email='corina@yahoo.com', nrTelefon='0751935136', adresa='Str. Crizantemelor'}, valoare=380.0, cod=3, listaProduse=
+Produsul: Produs{denumire='paine', pret=2.0, cantitateStoc=36, unitateMasura='BUCATA', descriere='alba', producator='Arcada', istoricPreturi={Sat Nov 12 10:25:39 EET 2022=2.0}, ratinguri=null, codProdus='0', rating='5.0'} in cantitatea 58
+Produsul: Produs{denumire='oua', pret=12.0, cantitateStoc=28, unitateMasura='BUCATA', descriere='Cofraj oua bio', producator='Ferma Vesela', istoricPreturi={Sat Nov 12 10:27:34 EET 2022=12.0}, ratinguri=null, codProdus='2', rating='5.0'} in cantitatea 22
+}
